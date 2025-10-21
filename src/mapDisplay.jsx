@@ -89,7 +89,7 @@ export default function WishesMap() {
                 ))}
             </MapContainer>
             
-            <style jsx>{`
+            <style>{`
                 .custom-diya-marker {
                     background: transparent !important;
                     border: none !important;
